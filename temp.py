@@ -1,1 +1,1 @@
-print("hwllo qoels")
+print("hwllo world")
